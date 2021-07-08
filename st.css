@@ -1,0 +1,36 @@
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing: border_box;
+}
+li{
+list-style:none;
+}
+body{
+font_family: sans_serif;
+display:flex;
+align-items:center;
+justify-content: center;
+background:#132C33;
+}
+.card_container{
+margin:50px;
+background:#4F0E0E;
+border-radius:10px;
+box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.75);
+color:#fefbd8;
+text_align:center;
+width:auto;
+padding:20px;
+}
+.round{
+border:1px solid #03bfcb;
+border-radius:50%;
+padding:7px;
+}
+.name_container{
+margin:10px 0;
+}
+</style>
+
